@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="col-12 col-l-6 content">
+                        <h2 class="mb10"><strong>Nofal SEO … Your Integrated Marketing Agency on the Internet</strong></h2>
+<p><strong>An Egyptian company providing marketing services to companies, institutions and entrepreneurs on the Internet since 2015. The company was launched to provide e-marketing services on Google search and all platforms on the Internet, and the company crowned its march last year by obtaining "Google Partners" for the year 2021.</strong></p>
+<ul class="checklist arrow-icons">
+<li>Diverse experiences in the field of e-marketing</li>
+<li>Many software solutions to the problems facing companies</li>
+<li>Securing and protecting the websites and servers of companies and institutions</li>
+</ul>
+<p>&nbsp;</p>
+<p>Nofal Seo is proud to provide advanced services in programming private websites and mobile applications, as well as server management and protection services.</p>                    </div>
