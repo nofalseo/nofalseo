@@ -22,7 +22,7 @@ Here are some ideas to get you started:
                     <!-- Media -->
                     <div class="col-12 col-l-6 media-col">
                         <picture>
-                          <source media="(prefers-color-scheme: dark)" srcset="https://nofalseo.com/wp-content/uploads/2023/02/logo.png">
+                          <source media="(prefers-color-scheme: dark)" srcset="https://nofalseo.com/wp-content/uploads/2023/02/%D9%84%D9%88%D8%AC%D9%88.png">
                           <source media="(prefers-color-scheme: light)" srcset="https://nofalseo.com/wp-content/uploads/2022/02/2-44.png">
                           <img alt="nofalseo" src="https://nofalseo.com/wp-content/uploads/2023/02/logo.png">
                         </picture>                               
